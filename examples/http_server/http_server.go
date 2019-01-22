@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Shopify/sarama"
+	"github.com/bookingcom/sarama"
 
 	"crypto/tls"
 	"crypto/x509"
